@@ -8,7 +8,7 @@ I'm **Farès**, 18 years, french student in first year computer science at **UPE
 <ul> 
   <li>C language</li>
   <li>🧩 Algorithms</li>
-  <li>🇨 Java</li>
+  <li>Java</li>
   <li>🐧 Linux</li>
 </ul>
 
