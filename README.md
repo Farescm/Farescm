@@ -4,10 +4,10 @@ I'm **Farès**, 18 years, french student in first year computer science at **UPE
 
 
 <h2>💻 What I master ? </h2>
+![image](https://user-images.githubusercontent.com/93473011/163060702-73cb9bf5-a3a3-458e-9096-de7e4dd7a862.png)
 
-<ul> ![image](https://user-images.githubusercontent.com/93473011/163060656-2b255c60-e6eb-4e7a-a4a5-79f305acc92e.png)
-
-  <li>![Uploading image.png…]()C language</li>
+<ul> 
+  <li>C language</li>
   <li>🧩 Algorithms</li>
   <li>🇨 Java</li>
   <li>🐧 Linux</li>
