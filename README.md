@@ -3,7 +3,7 @@
 I'm **Farès**, 18 years, french student in first year computer science at **UPEC** university.
 
 
-<h2>📚 What I master ? </h2>
+<h2>🖥 What I master ? </h2>
 
 <ul> 
   <li>🇨 C language</li>
