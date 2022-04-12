@@ -5,12 +5,12 @@ I'm **Farès**, 18 years, french student in first year computer science at **UPE
 
 <h2> What I master ? </h2>
 
-<li> 
-  <ul>🇨 C language</ul>
-  <ul>🧩 Algorithms</ul>
-  <ul>🇨 Java</ul>
-  <ul>🐧 Linux</ul>
-</li>
+<ul> 
+  <li>🇨 C language</li>
+  <li>🧩 Algorithms</li>
+  <li>🇨 Java</li>
+  <li>🐧 Linux</li>
+</ul>
 
 
 <!---
