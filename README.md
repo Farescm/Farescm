@@ -4,7 +4,6 @@ I'm **Farès**, 18 years, french student in first year computer science at **UPE
 
 
 <h2>💻 What I master ? </h2>
-![image](https://user-images.githubusercontent.com/93473011/163060702-73cb9bf5-a3a3-458e-9096-de7e4dd7a862.png)
 
 <ul> 
   <li>C language</li>
