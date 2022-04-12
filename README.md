@@ -1,6 +1,6 @@
 <h1><strong>✨ Welcome to my profile !</strong></h1>
 
-I'm **Farès**
+I'm **Farès**, 18 years, french student in frst year computer science at **UPEC** university
 
 
 <!---
