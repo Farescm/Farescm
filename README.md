@@ -10,6 +10,8 @@ I'm **Farès**, 18 years, french student in first year computer science at **UPE
   <li>🧩 Algorithms</li>
   <li>Java</li>
   <li>🐧 Linux</li>
+  <li> SQL </li>
+  <li> PHP </li>
 </ul>
 
 <h2>📚 What I learn ? </h2>
